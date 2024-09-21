@@ -2,6 +2,8 @@
 - 👀 I’m interested in programing, Linux and free software
 - 🌱 I’m currently learning JavaScript and C
 - 📫 How to reach me Telegram: @sudo_space
+Telegram: https://t.me/your_telegram_id
+Twitter: https://twitter.com/your_twitter_id
 
 
 <!---
